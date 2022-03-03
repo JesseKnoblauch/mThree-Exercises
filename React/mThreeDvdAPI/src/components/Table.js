@@ -5,7 +5,7 @@ import Dvd from "./Dvd.js";
 const Table = () => {
   const [state, setState] = useState({
     dvdList: [],
-    searchCategory: "",
+    searchCategory: "title",
     searchField: "",
   });
 

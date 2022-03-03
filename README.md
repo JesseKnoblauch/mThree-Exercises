@@ -1,0 +1,1 @@
+This directory contains jQuery/AJAX and React exercises completed while in training at mThree
